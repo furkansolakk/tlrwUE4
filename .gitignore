@@ -1,0 +1,25 @@
+# IDE Files (Visual Studio/VS Code)
+.vs/
+.vscode/
+*.VC.db
+*.sdf
+*.suo
+*.sln.docstates
+
+# Build artifacts and intermediate files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+
+# Saved Data
+Saved/
+
+# Logs
+*.log
+
+# Windows and macOS Junk
+.DS_Store
+
+# Engine specific files (if using a custom engine build)
+Engine/
